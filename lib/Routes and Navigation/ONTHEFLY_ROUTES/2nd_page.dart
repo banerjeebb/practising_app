@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:practising_app/Routes%20and%20Navigation/ONTHEFLY_ROUTES/Home.dart';
-import 'package:practising_app/UI--WIDGETS/sliver_appbar.dart';
+
 
 class SecondPage extends StatelessWidget {
   @override
